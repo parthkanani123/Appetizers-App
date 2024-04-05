@@ -1,3 +1,5 @@
+https://github.com/parthkanani123/Appetizers-App/assets/112791725/bb682d25-1395-48f6-b894-411607dc70c8
+
 Introducing a sleek Food App - Appetizers 😋
 
 🔍 Here's quick overview : 
@@ -13,5 +15,3 @@ Introducing a sleek Food App - Appetizers 😋
 ‼️ Alerts :-  implement different alerts which yanked when user used stuff in wrong way which optimize user experience and ease the functionality.
 
 🔁 Adaptive :- used different swiftUI components to make it addaptive in light and dark mode which increases app's usability.
-
-https://github.com/parthkanani123/Appetizers-App/assets/112791725/bb682d25-1395-48f6-b894-411607dc70c8
