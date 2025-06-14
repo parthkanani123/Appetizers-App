@@ -15,3 +15,9 @@ Introducing a sleek Food App - Appetizers 😋
 ‼️ Alerts :-  implement different alerts which yanked when user used stuff in wrong way which optimize user experience and ease the functionality.
 
 🔁 Adaptive :- used different swiftUI components to make it addaptive in light and dark mode which increases app's usability.
+
+➤ Developed iOS Food App with sleek features - product list, detailView, orders, profile <br>
+➤ Used cache to store downloaded images, enhancing user experience by reducing the need for redownloading<br>
+➤ Crafted detailView comprises of image, price, description and some nutrition - protein, calories, carbs etc. <br>
+➤ Crafted profile management with validations & alerts<br>
+➤ Tech Stack Used : Swift, SwiftUI, Xcode, MVVM<br>
